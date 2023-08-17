@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 This is the script that will generate angular components based on a few inputs.
 The generated files will be:
